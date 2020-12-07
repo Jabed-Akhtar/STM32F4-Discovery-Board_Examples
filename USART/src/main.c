@@ -23,7 +23,7 @@ void initLED(void);
 void initTIM10(void);
 void initPinsUSART(void);
 void initUSART(void);
-void sendUSART(char* chValue);
+void sendUSART(char* charVal);
 
 /* Global Parameters */
 volatile uint32_t count = 0;
