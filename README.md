@@ -1,7 +1,10 @@
 # STM32F4Discovery
- ### Description: Here I have put some Examples for STM32F4-Discovery-Board.
+ ### Here I have put some Examples for STM32F4-Discovery-Board.
 
+**Description:**
  - board used: STM32F407VG [link: https://www.st.com/en/evaluation-tools/stm32f4discovery.html]  
+ - for Projects with Atollic TrueSTUDIO: main file is saved at location '<project-name>\src\main.c'  
+ - for Projects with STM32CubeIDE: main file is saved at location '<project-name>\Core\Src\main.c'  
  
 ### Projects and IDE used:
 
@@ -13,3 +16,4 @@
 | 4     | Timer_TIM10                       | Atollic TrueSTUDIO |
 | 5     | USART                             | Atollic TrueSTUDIO |
 | 6     | ADC_onboardTemperatureSensor      | Atollic TrueSTUDIO |
+| 7     | ADC_OnBoard3VPinRead              | STM32CubeIDE       |
