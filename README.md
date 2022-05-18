@@ -1,4 +1,4 @@
-# STM32F4Discovery
+# STM32F4-Discovery-Board
  ### Here I have put some Examples for STM32F4-Discovery-Board.
 
 **Description:**
