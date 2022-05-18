@@ -17,6 +17,7 @@
 | 5     | USART                             | Atollic TrueSTUDIO |
 | 6     | ADC_onboardTemperatureSensor      | Atollic TrueSTUDIO |
 | 7     | ADC_OnBoard3VPinRead              | STM32CubeIDE       |
+| 7     | CAN                               | Atollic TrueSTUDIO |
 
 ### STM32F4-Discovery Board
 ![STM32F4-Discovery Board](zz_docs/STM32F4-Discovery.jpg)
