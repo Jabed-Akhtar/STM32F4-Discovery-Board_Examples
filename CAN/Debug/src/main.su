@@ -1,8 +1,8 @@
-main.c:50:5:main	8	static
-main.c:70:6:CAN1_RX0_IRQHandler	8	static
-main.c:91:6:TIM1_UP_TIM10_IRQHandler	8	static
-main.c:107:6:EXTI0_IRQHandler	8	static
-main.c:122:6:initCAN	48	static
-main.c:178:6:initTIM10	24	static
-main.c:198:6:initButton	32	static
-main.c:225:6:initLED	16	static
+../src/main.c:50:5:main	8	static,ignoring_inline_asm
+../src/main.c:70:6:CAN1_RX0_IRQHandler	8	static
+../src/main.c:91:6:TIM1_UP_TIM10_IRQHandler	8	static
+../src/main.c:107:6:EXTI0_IRQHandler	8	static
+../src/main.c:122:6:initCAN	48	static
+../src/main.c:178:6:initTIM10	24	static
+../src/main.c:198:6:initButton	32	static
+../src/main.c:225:6:initLED	16	static
