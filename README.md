@@ -22,5 +22,8 @@
 | 10    | CAN                               | Atollic TrueSTUDIO |
 | 11    | USB_Device_CDC                    | STM32CubeIDE       |
 
+#### USB_Device_CDC
+- USB Port (micro-USB) available on the discovery board
+
 ### STM32F4-Discovery Board
 ![STM32F4-Discovery Board](zz_docs/STM32F4-Discovery.jpg)
