@@ -20,6 +20,7 @@
 | 8     | IIC_Master                        | STM32CubeIDE       |
 | 9     | IIC_Slave                         | STM32CubeIDE       |
 | 10    | CAN                               | Atollic TrueSTUDIO |
+| 11    | USB_Device_CDC                    | STM32CubeIDE       |
 
 ### STM32F4-Discovery Board
 ![STM32F4-Discovery Board](zz_docs/STM32F4-Discovery.jpg)
