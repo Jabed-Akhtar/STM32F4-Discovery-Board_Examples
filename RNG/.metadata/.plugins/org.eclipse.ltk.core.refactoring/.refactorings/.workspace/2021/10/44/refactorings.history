@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;CANNode_STM32&apos;" deleteContents="false" description="Delete resource &apos;CANNode_STM32&apos;" element1="/CANNode_STM32" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1635622285070"/>&#x0A;<refactoring comment="Delete resource &apos;rng&apos;" deleteContents="false" description="Delete resource &apos;rng&apos;" element1="/rng" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1635622292545"/>
-</session>
