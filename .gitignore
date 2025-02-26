@@ -1,8 +1,8 @@
-*/.settings
+**/.settings/
 
 # Ignore build artifacts
 **/Debug/
 **/Release/
 
 # STM32CubeIDE related
-.metadata/
+**/.metadata/
