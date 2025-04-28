@@ -1,6 +1,7 @@
 **/.settings/
 
 # Ignore build artifacts
+**/build/
 **/Debug/
 **/Release/
 
